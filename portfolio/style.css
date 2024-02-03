@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(233, 201, 158);
+}
+
+.logo{
+    display:inline-block;
+    font-style: italic;
+    font-size: x-large;
+    margin-left: 20px;
+}
+
+.links{
+    display:inline-block;
+    margin-left: 700px;
+}
+.link{
+    margin-left: 100px;
+    font-size: 20px;
+}
+.pic{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.name{
+    margin-top: 80px;
+    margin-left: 200px;
+    font-size: x-large;
+    font-style: oblique;
+}
+
+.info{
+    margin-left: 200px;
+}
+
+.download{
+    margin-left: 200px;
+    margin-top: 70px;
+
+}
+
+.social{
+    margin-top: 60px;
+    margin-left: 250px;
+}
+
+
