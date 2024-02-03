@@ -11,10 +11,10 @@ body{
 
 .links{
     display:inline-block;
-    margin-left: 700px;
+    margin-left: 600px;
 }
 .link{
-    margin-left: 70px;
+    margin-left: 50px;
     font-size: 20px;
 }
 .pic{
